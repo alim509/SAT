@@ -27,7 +27,7 @@ School ID	School Name City Borough Building Code	Street Address	City	State	Zip C
 02M425	Leadership and Public Service High School	Manhattan	M894	90 Trinity Place	Manhattan	NY	10006	40.70915	-74.01208	212-346-0007	8:30 AM	2:45 PM	699	4.40%	27.90%	61.90%	3.90%	390	396	392	54.90%
 01M450	East Side Community School	Manhattan	M060	420 East 12th Street	Manhattan	NY	10009	40.72978	-73.98304	212-460-8467	8:30 AM	3:30 PM	666	8.30%	22.10%	57.90%	9.40%	454	428	445	85.20%
 02M411	Baruch College Campus High School	Manhattan	M874	55 East 25th Street	Manhattan	NY	10010	40.74405	-73.99148	212-683-7440	8:20 AM	2:50 PM	451	22.80%	6.20%	14.90%	54.80%	592	526	531	94.30%
-02M047	47 American Sign Language and English Secondary School	Manhattan	M047	223 East 23rd Street	Manhattan	NY	10010	40.7386	-73.98251	917-326-6668	8:45 AM	3:45 PM	169	5.30%	28.40%	64.50%	1.20%				48.30%
+02M047	47 American Sign Language and English Secondary School	Manhattan	M047	223 East 23rd Street	Manhattan	NY	10010	40.7386	-73.98251	917-326-6668	8:45 AM	3:45 PM	169	5.30%	28.40%	64.50%	1.20%   48.30%
 02M413	School of the Future High School	Manhattan	M660	127 East 22nd Street	Manhattan	NY	10010	40.73895	-73.98541	212-475-8086	8:35 AM	3:10 PM	713	35.90%	11.70%	30.40%	14.40%	534	533	522	89.90%
 02M439	Manhattan Village Academy	Manhattan	M873	43 West 22nd Street	Manhattan	NY	10010	40.74149	-73.99145	212-242-8752	8:00 AM	3:20 PM	415	7.20%	9.60%	67.20%	7.20%	522	479	510	98.80%
 02M422	Quest to Learn	Manhattan	M440	351 West 18th Street	Manhattan	NY	10011	40.74289	-74.00213	212-488-3645	9:00 AM	3:50 PM	564	24.20%	21.90%	41.50%	8.70%
@@ -115,7 +115,7 @@ School ID	School Name City Borough Building Code	Street Address	City	State	Zip C
 31R460	Susan E. Wagner High School	Staten Island	R460	1200 Manor Road	Staten Island	NY	10314	40.59865	-74.1231	718-698-4200	8:16 AM	3:00 PM	3363	47.70%	10.90%	27.00%	13.40%	496	490	487	66.30%
 31R064	Gaynor McCown Expeditionary Learning School	Staten Island	R043	100 Essex Drive	Staten Island	NY	10314	40.58202	-74.15785	718-370-6950	8:00 AM	2:20 PM	479	61.60%	13.80%	19.00%	3.30%	442	458	454	55.80%
 31R047	CSI High School for International Studies	Staten Island	R043	100 Essex Drive	Staten Island	NY	10314	40.58202	-74.15785	718-370-6900	7:30 AM	3:50 PM	520	55.60%	8.80%	19.80%	11.20%	477	468	464	83.50%
-07X522	Bronx Design and Construction Academy	Bronx	X600	333 East 151st Street	Bronx	NY	10451	40.81825	-73.91974	718-402-7690	8:00 AM	3:30 PM	563	3.40%	24.00%	70.50%	1.40%				0.80%
+07X522	Bronx Design and Construction Academy	Bronx	X600	333 East 151st Street	Bronx	NY	10451	40.81825	-73.91974	718-402-7690	8:00 AM	3:30 PM	563	3.40%	24.00%	70.50%	1.40%   0.80%
 07X547	New Explorers High School	Bronx	X790	730 Concourse Village West	Bronx	NY	10451	40.82278	-73.92352	718-292-4150	8:30 AM	3:30 PM	475	0.40%	31.40%	67.60%	0.40%	390	398	376	30.40%
 09X505	"Bronx School for Law, Government, and Justice"	Bronx	X460	244 East 163rd Street	Bronx	NY	10451	40.82759	-73.91867	718-410-3430	8:15 AM	3:00 PM	778	1.00%	23.10%	72.00%	2.20%	403	409	415	63.80%
 07X548	Urban Assembly School for Careers in Sports	Bronx	X790	730 Concourse Village West	Bronx	NY	10451	40.82278	-73.92352	718-292-7110	8:25 AM	3:18 PM	587	1.40%	28.60%	69.50%	0.20%	402	405	395	55.50%
@@ -129,7 +129,7 @@ School ID	School Name City Borough Building Code	Street Address	City	State	Zip C
 07X223	Laboratory School of Finance and Technology	Bronx	X149	360 East 145th Street	Bronx	NY	10454	40.81401	-73.92084	718-585-8202	7:50 AM	3:00 PM	502	0.90%	20.60%	78.50%	0.00%
 07X221	South Bronx Preparatory (College Board)	Bronx	X149	360 East 145th Street	Bronx	NY	10454	40.81401	-73.92084	718-292-2211	8:00 AM	3:00 PM	654	1.40%	25.20%	70.30%	1.70%	419	414	394	76.90%
 07X334	International Community High School	Bronx	X139	345 Brook Avenue	Bronx	NY	10454	40.81004	-73.91781	718-665-4128	9:00 AM	4:00 PM	463	1.30%	14.00%	76.70%	6.50%	345	338	312	58.20%
-07X520	Foreign Language Academy of Global Studies	Bronx	X155	470 Jackson Avenue	Bronx	NY	10455	40.81114	-73.90979	718-585-4024	7:30 AM	3:00 PM	145	1.40%	26.90%	67.60%	2.80%				32.60%
+07X520	Foreign Language Academy of Global Studies	Bronx	X155	470 Jackson Avenue	Bronx	NY	10455	40.81114	-73.90979	718-585-4024	7:30 AM	3:00 PM	145	1.40%	26.90%	67.60%	2.80%   32.60%
 07X500	Hostos-Lincoln Academy of Science	Bronx	X162	600 St Anns Avenue	Bronx	NY	10455	40.81496	-73.91252	718-402-5640	8:00 AM	2:30 PM	544	1.50%	22.50%	69.90%	3.80%	463	451	435	80.00%
 07X259	"HERO High (Health, Education, and Research Occupations High School)"	Bronx	X655	455 Southern Boulevard	Bronx	NY	10455	40.81041	-73.9068	718-585-8013	8:30 AM	3:30 PM	231	1.70%	35.50%	58.90%	2.20%
 07X495	University Heights Secondary School	Bronx	X470	701 St Anns Avenue	Bronx	NY	10455	40.81817	-73.91109	718-292-0578	8:45 AM	3:00 PM	486	1.60%	30.00%	64.60%	3.10%	420	446	424	87.80%
@@ -149,7 +149,7 @@ School ID	School Name City Borough Building Code	Street Address	City	State	Zip C
 09X241	Urban Assembly School for Applied Math and Science	Bronx	X970	1595 Bathgate Avenue	Bronx	NY	10457	40.83933	-73.90131	718-466-7800	8:30 AM	3:30 PM	619	1.10%	33.00%	64.10%	1.40%	445	418	422	87.80%
 09X227	Bronx Collegiate Academy	Bronx	X410	240 East 172nd Street	Bronx	NY	10457	40.84037	-73.91084	718-410-4077	8:30 AM	3:30 PM	382	0.30%	28.50%	69.10%	1.00%	395	401	382	45.50%
 09X252	Mott Hall Bronx High School	Bronx	X970	1595 Bathgate Avenue	Bronx	NY	10457	40.83933	-73.90131	718-466-6800	8:30 AM	3:15 PM	402	1.20%	20.10%	75.60%	1.20%	417	399	398	46.20%
-09X276	Leadership Institute	Bronx	X004	1701 Fulton Avenue	Bronx	NY	10457	40.84127	-73.89798	718-299-7490	8:30 AM	3:15 PM	207	1.90%	34.30%	63.30%	0.00%				23.50%
+09X276	Leadership Institute	Bronx	X004	1701 Fulton Avenue	Bronx	NY	10457	40.84127	-73.89798	718-299-7490	8:30 AM	3:15 PM	207	1.90%	34.30%	63.30%	0.00%   23.50%
 09X350	New Directions Secondary School	Bronx	X410	240 East 172nd Street	Bronx	NY	10457	40.84037	-73.91084	718-410-4242
 09X525	Bronx Leadership Academy High School	Bronx	X876	1710 Webster Avenue	Bronx	NY	10457	40.84358	-73.90322	718-299-4274	8:00 AM	3:44 PM	686	0.60%	35.70%	61.70%	0.40%	375	372	374	49.10%
 09X263	Validus Preparatory Academy: An Expeditionary Learning School	Bronx	X970	1595 Bathgate Avenue	Bronx	NY	10457	40.83933	-73.90131	718-466-4000	8:15 AM	3:15 PM	375	0.80%	26.90%	70.70%	1.60%	382	375	384	59.20%
@@ -159,7 +159,7 @@ School ID	School Name City Borough Building Code	Street Address	City	State	Zip C
 09X329	DreamYard Preparatory School	Bronx	X410	240 East 172nd Street	Bronx	NY	10457	40.84037	-73.91084	718-410-4242	8:40 AM	3:15 PM	336	1.20%	33.60%	60.70%	1.50%	385	385	388	51.10%
 10X225	Theatre Arts Production Company School	Bronx	X137	2225 Webster Avenue	Bronx	NY	10457	40.85465	-73.89665	718-584-0832	8:30 AM	3:30 PM	632	0.70%	29.20%	66.60%	1.20%	402	421	410	77.70%
 10X243	West Bronx Academy for the Future	Bronx	X435	500 East Fordham Road	Bronx	NY	10458	40.86001	-73.88823	718-563-7139	8:30 AM	3:15 PM	599	3.00%	21.10%	72.00%	2.70%	404	383	378	57.30%
-10X524	Crotona International High School	Bronx	X660	2474 Crotona Avenue	Bronx	NY	10458	40.85592	-73.88258	718-561-8701	8:30 AM	4:15 PM	336	1.80%	10.40%	85.70%	1.80%				0.00%
+10X524	Crotona International High School	Bronx	X660	2474 Crotona Avenue	Bronx	NY	10458	40.85592	-73.88258	718-561-8701	8:30 AM	4:15 PM	336	1.80%	10.40%	85.70%	1.80%   0.00%
 10X439	Bronx High School for Law and Community Service	Bronx	X435	500 East Fordham Road	Bronx	NY	10458	40.86001	-73.88823	718-733-5274	8:15 AM	4:00 PM	398	1.80%	24.40%	70.90%	1.30%	401	402	386	64.80%
 10X264	Bronx Academy for Software Engineering (BASE)	Bronx	X660	2474 Crotona Avenue	Bronx	NY	10458	40.85592	-73.88258	718-733-6024	8:30 AM	3:30 PM	226	2.70%	28.80%	60.60%	7.50%
 10X434	Belmont Preparatory High School	Bronx	X435	500 East Fordham Road	Bronx	NY	10458	40.86001	-73.88823	718-733-4559	8:15 AM	3:45 PM	416	1.90%	30.00%	65.60%	2.20%	413	408	402	55.30%
@@ -225,7 +225,7 @@ School ID	School Name City Borough Building Code	Street Address	City	State	Zip C
 08X312	Millennium Art Academy	Bronx	X450	1980 Lafayette Avenue	Bronx	NY	10473	40.8223	-73.85596	718-824-0978	8:00 AM	3:00 PM	487	1.80%	30.00%	65.10%	2.30%	396	413	395	39.20%
 08X452	Bronx Guild	Bronx	X450	1980 Lafayette Avenue	Bronx	NY	10473	40.8223	-73.85596	718-597-1587	8:30 AM	3:00 PM	326	1.20%	32.20%	61.70%	4.00%	365	393	357	41.30%
 08X367	"Archimedes Academy for Math, Science, and Technology Applications"	Bronx	X174	456 White Plains Road	Bronx	NY	10473	40.81492	-73.85657	718-617-5046	8:25 AM	3:15 PM	637	2.20%	30.90%	60.60%	5.50%	418	430	403	51.20%
-08X432	Bronx Bridges High School	Bronx	X450	1980 Lafayette Avenue	Bronx	NY	10473	40.8223	-73.85596	718-829-2984	8:00 AM	3:45 PM	333	1.80%	6.60%	82.90%	7.80%				1.20%
+08X432	Bronx Bridges High School	Bronx	X450	1980 Lafayette Avenue	Bronx	NY	10473	40.8223	-73.85596	718-829-2984	8:00 AM	3:45 PM	333	1.80%	6.60%	82.90%	7.80%   1.20%
 08X305	Pablo Neruda Academy	Bronx	X450	1980 Lafayette Avenue	Bronx	NY	10473	40.8223	-73.85596	718-824-1682	8:00 AM	3:50 PM	315	1.30%	26.00%	67.60%	4.40%	394	384	383	44.20%
 08X282	Women's Academy of Excellence	Bronx	X174	456 White Plains Road	Bronx	NY	10473	40.81492	-73.85657	718-542-0740	8:30 AM	2:45 PM	345	2.60%	50.10%	41.20%	3.50%	386	390	389	45.20%
 08X561	Bronx Compass High School	Bronx	X450	1980 Lafayette Avenue	Bronx	NY	10473	40.8223	-73.85596	718-828-1206	8:30 AM	3:15 PM	332	0.90%	34.60%	60.20%	2.40%
@@ -277,8 +277,8 @@ School ID	School Name City Borough Building Code	Street Address	City	State	Zip C
 13K670	Benjamin Banneker Academy	Brooklyn	K914	71-77 Clinton Avenue	Brooklyn	NY	11205	40.69566	-73.96929	718-797-3702	8:00 AM	3:00 PM	916	0.50%	86.40%	8.60%	3.40%	479	484	472	85.50%
 14K071	Juan Morel Campos Secondary School	Brooklyn	K071	215 Heyward Street	Brooklyn	NY	11206	40.70358	-73.95324	718-302-7900	8:00 AM	2:15 PM	692	2.50%	13.60%	82.70%	0.30%	366	356	353	56.30%
 14K449	Brooklyn Latin School	Brooklyn	K049	223 Graham Avenue	Brooklyn	NY	11206	40.7099	-73.94366	718-366-0154	8:00 AM	2:30 PM	676	13.50%	19.40%	14.50%	36.10%	625	588	591	97.50%
-14K322	Foundations Academy	Brooklyn	K033	70 Tompkins Avenue	Brooklyn	NY	11206	40.69706	-73.94668	718-302-5092	8:30 AM	3:30 PM	113	0.00%	67.30%	29.20%	1.80%				18.90%
-14K614	Young Women's Leadership School of Brooklyn	Brooklyn	K147	325 Bushwick Avenue	Brooklyn	NY	11206	40.7056	-73.93948	718-387-5641	7:30 AM	2:45 PM	380	0.80%	63.80%	28.30%	3.30%				0.00%
+14K322	Foundations Academy	Brooklyn	K033	70 Tompkins Avenue	Brooklyn	NY	11206	40.69706	-73.94668	718-302-5092	8:30 AM	3:30 PM	113	0.00%	67.30%	29.20%	1.80%   18.90%
+14K614	Young Women's Leadership School of Brooklyn	Brooklyn	K147	325 Bushwick Avenue	Brooklyn	NY	11206	40.7056	-73.93948	718-387-5641	7:30 AM	2:45 PM	380	0.80%	63.80%	28.30%	3.30%   0.00%
 14K454	Green School: An Academy for Environmental Careers	Brooklyn	K049	223 Graham Avenue	Brooklyn	NY	11206	40.7099	-73.94366	718-599-1207	8:00 AM	3:30 PM	276	1.40%	38.00%	59.10%	0.70%	384	398	399	41.10%
 14K586	Lyons Community School	Brooklyn	K049	223 Graham Avenue	Brooklyn	NY	11206	40.7099	-73.94366	718-782-0918	8:40 AM	3:30 PM	520	2.40%	39.80%	55.80%	1.80%	374	376	357	56.30%
 19K510	World Academy for Total Community Health High School	Brooklyn	K435	400 Pennsylvania Avenue	Brooklyn	NY	11207	40.66755	-73.8948	718-922-0650	8:05 AM	2:20 PM	284	1.40%	75.70%	19.00%	2.50%	380	389	384	40.90%
@@ -305,7 +305,7 @@ School ID	School Name City Borough Building Code	Street Address	City	State	Zip C
 14K477	School for Legal Studies	Brooklyn	K450	850 Grand Street	Brooklyn	NY	11211	40.71196	-73.94043	718-387-2800	8:00 AM	3:30 PM	598	1.30%	45.80%	50.00%	1.00%	393	390	394	34.80%
 14K561	Williamsburg Preparatory School	Brooklyn	K650	257 North 6th Street	Brooklyn	NY	11211	40.71504	-73.95465	718-302-2306	8:15 AM	3:15 PM	682	10.00%	16.40%	69.60%	2.60%	443	440	430	87.80%
 14K558	Williamsburg High School for Architecture and Design	Brooklyn	K650	257 North 6th Street	Brooklyn	NY	11211	40.71504	-73.95465	718-388-1260	8:15 AM	3:15 PM	595	4.20%	31.60%	60.00%	2.40%	415	424	407	60.10%
-23K514	Frederick Douglass Academy VII High School	Brooklyn	K175	226 Bristol Street	Brooklyn	NY	11212	40.66581	-73.9117	718-485-3789	9:07 AM	3:27 PM	319	0.30%	88.10%	11.30%	0.00%	400	407	394	65.40%
+23K514	Frederick Douglass Academy VII High School	Brooklyn	K175	226 Bristol Street	Brooklyn	NY	11212	40.66581	-73.9117	718-485-3789	9:07 AM	3:27 PM	319	0.30%	88.10%	11.30%	0.00%	400	407	394
 23K697	Teachers Preparatory High School	Brooklyn	K175	226 Bristol Street	Brooklyn	NY	11212	40.66581	-73.9117	718-498-2605	8:20 AM	2:40 PM	390	0.60%	83.00%	15.70%	0.30%	394	399	412	56.60%
 17K122	Pathways in Technology Early College High School	Brooklyn	K625	150 Albany Avenue	Brooklyn	NY	11213	40.6754	-73.93888	718-221-1593	8:15 AM	4:30 PM	438	0.70%	85.60%	9.10%	3.00%	446	442	410	69.40%
 17K751	Academy for Health Careers	Brooklyn	K625	150 Albany Avenue	Brooklyn	NY	11213	40.6754	-73.93888	718-773-0128	8:30 AM	2:45 PM	373	0.80%	85.50%	8.80%	1.60%	406	405	396	48.10%
@@ -331,7 +331,7 @@ School ID	School Name City Borough Building Code	Street Address	City	State	Zip C
 32K545	EBC High School for Public Service in Bushwick	Brooklyn	K913	1155 Dekalb Avenue	Brooklyn	NY	11221	40.69448	-73.92915	718-452-3440	8:00 AM	3:45 PM	514	0.20%	8.00%	90.70%	0.40%	389	374	378	50.00%
 16K498	Brooklyn High School for Law and Technology	Brooklyn	K987	1396 Broadway	Brooklyn	NY	11221	40.68893	-73.92108	718-919-1256	8:00 AM	3:00 PM	596	1.20%	71.10%	23.80%	2.50%	395	401	383	62.70%
 16K688	Brooklyn Academy of Global Finance	Brooklyn	K057	125 Stuyvesant Avenue	Brooklyn	NY	11221	40.69154	-73.93373	718-574-3126	8:15 AM	3:12 PM	152	2.00%	71.70%	20.40%	5.90%	395	382	391	45.90%
-16K393	Frederick Douglass Academy IV Secondary School	Brooklyn	K026	1014 Lafayette Avenue	Brooklyn	NY	11221	40.69213	-73.9315	718-574-2820	8:00 AM	2:20 PM	92	1.10%	82.60%	14.10%	1.10%				42.90%
+16K393	Frederick Douglass Academy IV Secondary School	Brooklyn	K026	1014 Lafayette Avenue	Brooklyn	NY	11221	40.69213	-73.9315	718-574-2820	8:00 AM	2:20 PM	92	1.10%	82.60%	14.10%	1.10%   42.90%
 32K556	Bushwick Leaders High School for Academic Excellence	Brooklyn	K865	797 Bushwick Avenue	Brooklyn	NY	11221	40.695	-73.92799	718-919-4212	8:15 AM	4:45 PM	317	0.30%	16.70%	81.40%	0.90%	393	368	382	46.80%
 14K610	Automotive High School	Brooklyn	K610	50 Bedford Avenue	Brooklyn	NY	11222	40.72264	-73.95258	718-218-9301	8:45 AM	3:50 PM	383	2.90%	55.90%	38.10%	1.60%	367	381	328	31.60%
 14K632	Frances Perkins Academy	Brooklyn	K610	50 Bedford Avenue	Brooklyn	NY	11222	40.72264	-73.95258	718-388-7721	8:00 AM	3:00 PM	142	2.10%	62.70%	32.40%	0.70%	399	413	400	46.30%
@@ -354,7 +354,7 @@ School ID	School Name City Borough Building Code	Street Address	City	State	Zip C
 15K667	Sunset Park High School	Brooklyn	K564	153 35th Street	Brooklyn	NY	11232	40.65595	-74.0055	718-840-1900	8:45 AM	3:30 PM	1333	6.80%	8.50%	77.30%	7.30%	398	380	381	61.60%
 23K493	Brooklyn Collegiate (College Board)	Brooklyn	K055	2021 Bergen Street	Brooklyn	NY	11233	40.67414	-73.91349	718-922-1145	8:30 AM	2:45 PM	353	0.30%	87.50%	9.60%	1.40%	394	395	399	64.40%
 16K594	Gotham Professional Arts Academy	Brooklyn	K040	265 Ralph Avenue	Brooklyn	NY	11233	40.68046	-73.9222	718-455-0746	8:45 AM	3:15 PM	226	1.30%	81.90%	14.60%	0.90%	377	396	386	50.70%
-23K644	Eagle Academy for Young Men II	Brooklyn	K271	1137 Herkimer Street	Brooklyn	NY	11233	40.67783	-73.91582	718-495-0863	8:45 AM	3:00 PM	576	1.90%	85.30%	11.90%	0.00%				0.00%
+23K644	Eagle Academy for Young Men II	Brooklyn	K271	1137 Herkimer Street	Brooklyn	NY	11233	40.67783	-73.91582	718-495-0863	8:45 AM	3:00 PM	576	1.90%	85.30%	11.90%	0.00%   0.00%
 22K535	Leon M. Goldstein High School for the Sciences	Brooklyn	K535	1830 Shore Boulevard	Brooklyn	NY	11235	40.58085	-73.93609	718-368-8500	8:15 AM	2:30 PM	1081	59.10%	10.20%	10.60%	18.70%	563	534	543	94.00%
 21K410	Abraham Lincoln High School	Brooklyn	K410	2800 Ocean Parkway	Brooklyn	NY	11235	40.58231	-73.96747	718-333-7400	7:28 AM	3:10 PM	2341	20.10%	39.80%	23.70%	15.10%	441	422	422	54.90%
 22K611	Origins High School	Brooklyn	K495	3000 Avenue X	Brooklyn	NY	11235	40.59419	-73.93684	718-891-0037	8:45 AM	4:00 PM	213	22.50%	42.30%	21.60%	12.70%
@@ -367,7 +367,7 @@ School ID	School Name City Borough Building Code	Street Address	City	State	Zip C
 18K567	Brooklyn Theatre Arts High School	Brooklyn	K515	6565 Flatlands Avenue	Brooklyn	NY	11236	40.63263	-73.9178	718-968-1072	8:30 AM	3:23 PM	395	1.80%	82.00%	13.20%	0.50%	379	393	373	69.10%
 18K637	Academy for Conservation and the Environment	Brooklyn	K515	6565 Flatlands Avenue	Brooklyn	NY	11236	40.63263	-73.9178	718-968-4101	8:33 AM	3:19 PM	308	1.30%	86.00%	9.70%	1.60%	381	397	390	50.80%
 32K554	All City Leadership Secondary School	Brooklyn	K554	321 Palmetto Street	Brooklyn	NY	11237	40.69741	-73.91315	718-246-6500	7:45 AM	2:30 PM	358	1.70%	14.60%	77.00%	6.20%	467	446	448	85.00%
-32K168	Brooklyn School for Math and Research	Brooklyn	K480	400 Irving Avenue	Brooklyn	NY	11237	40.69696	-73.91082	718-381-7100	8:15 AM	3:45 PM	247	4.50%	53.80%	38.10%	2.40%				0.00%
+32K168	Brooklyn School for Math and Research	Brooklyn	K480	400 Irving Avenue	Brooklyn	NY	11237	40.69696	-73.91082	718-381-7100	8:15 AM	3:45 PM	247	4.50%	53.80%	38.10%	2.40%   0.00%
 32K549	Bushwick School for Social Justice	Brooklyn	K480	400 Irving Avenue	Brooklyn	NY	11237	40.69696	-73.91082	718-381-7100	8:15 AM	3:00 PM	405	2.50%	20.50%	76.00%	0.50%	365	357	357	50.00%
 32K403	Academy for Environmental Leadership	Brooklyn	K480	400 Irving Avenue	Brooklyn	NY	11237	40.69696	-73.91082	718-381-7100	8:00 AM	3:00 PM	340	1.50%	19.40%	77.10%	1.80%	365	366	348	71.30%
 32K552	Academy of Urban Planning	Brooklyn	K480	400 Irving Avenue	Brooklyn	NY	11237	40.69696	-73.91082	718-381-7100	8:15 AM	3:45 PM	279	0.70%	23.30%	73.80%	0.70%	392	374	379	41.90%
